@@ -1,0 +1,14 @@
+# ninja log v5
+63	141	6606678961225632	sys_tp_10_11_12.exe	810b7d7fe024613b
+24	53	1640017477346562711	sys_tp_10_11_12	5b3d200911c587eb
+0	31	1640016775260138114	CMakeFiles/sys_tp_10_11_12.dir/step1_read_from_csv.c.o	26b2710f7fb583c4
+0	26	1640016845497808749	CMakeFiles/sys_tp_10_11_12.dir/step3_array_of_structs.c.o	e012893b61252270
+0	25	1640016819974140594	CMakeFiles/sys_tp_10_11_12.dir/step2_use_a_struct.c.o	cae5cd4c0cd95b06
+1	26	1640017431272712082	CMakeFiles/sys_tp_10_11_12.dir/step4_sorting_array_of_structs.c.o	d839cd0b4b3d377
+0	24	1640017477316728450	CMakeFiles/sys_tp_10_11_12.dir/step5_adding_co2_per_capita.c.o	c7db529ac4405188
+1	22	1640017871883742982	CMakeFiles/sys_tp_10_11_12.dir/step6_factoring_out_struct_read_sort.c.o	25cb513924a35d06
+1	28	1640017871889245851	CMakeFiles/sys_tp_10_11_12.dir/utils.c.o	d0225e591472870e
+28	57	1640017871919527068	sys_tp_10_11_12	a215612a018479c1
+0	30	1640018188324521166	CMakeFiles/sys_tp_10_11_12.dir/step6_factoring_out_struct_read_sort.c.o	25cb513924a35d06
+0	44	1640018188338535730	CMakeFiles/sys_tp_10_11_12.dir/utils.c.o	d0225e591472870e
+44	75	1640018188370785790	sys_tp_10_11_12	a215612a018479c1
